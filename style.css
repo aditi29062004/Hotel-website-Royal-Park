@@ -94,7 +94,7 @@ body {
 }
 
 .header {
-  background-image: url("assests/header.jpg");
+  background-image: url("header.jpg");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -323,7 +323,7 @@ nav {
 }
 
 .service {
-  background-image: url("assests/service.jpg");
+  background-image: url("service.jpg");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -425,7 +425,7 @@ nav {
     minmax(1rem, 1fr)
     minmax(0, var(--max-width))
     minmax(1rem, 1fr);
-  background-image: url("assests/explore.jpg");
+  background-image: url("explore.jpg");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
